@@ -1,4 +1,4 @@
-![MasterHead](https://images7.alphacoders.com/509/thumb-440-509782.webp)
+![MasterHead](https://images7.alphacoders.com/509/509782.jpg)
 <h1 align="center">Hi welcome my git, I'm Trinh Cong Nguyen</h1>
 <h3 align="center">I want to become fullstack developer and devops</h3>
 

@@ -1,4 +1,4 @@
-[![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210310114057/web-development-image-768x346.png)]
+[![MasterHead]([https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210310114057/web-development-image-768x346.png](https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif))]
 <h1 align="center">Hi welcome my git, I'm Trinh Cong Nguyen</h1>
 <h3 align="center">I want to become fullstack developer and devops</h3>
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/2imoriz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/2imoriz/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/2imoriz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/2imoriz/" height="30" width="40" /></a>
 <a href="https://fb.com/2imoriz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="2imoriz" height="30" width="40" /></a>
 </p>
 

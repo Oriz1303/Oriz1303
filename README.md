@@ -1,3 +1,4 @@
+[![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210310114057/web-development-image-768x346.png)]
 <h1 align="center">Hi welcome my git, I'm Trinh Cong Nguyen</h1>
 <h3 align="center">I want to become fullstack developer and devops</h3>
 

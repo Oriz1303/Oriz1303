@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Aptech**
 
-- 💬 Ask me about **React, Spring Boot, Angular**
+- 💬 Ask me about **React, Spring Boot, Angular.**
 
 - 📫 How to reach me **oriz1303@gmail.com**
 

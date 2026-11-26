@@ -4,7 +4,7 @@
 
 # Hi, I'm Trinh Cong Nguyen 👋
 
-### ☁️ Cloud & DevOps Engineer · AWS Certified Solutions Architect – Associate
+### ☁️ Cloud & DevOps Engineer
 
 *I build, automate and secure cloud infrastructure on AWS with Terraform, Kubernetes and GitOps.*
 

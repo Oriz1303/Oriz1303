@@ -6,7 +6,7 @@
 
 ### ☁️ Cloud & DevOps Engineer · AWS Certified Solutions Architect – Associate
 
-*Former fullstack developer → now building, automating and securing cloud infrastructure.*
+*I build, automate and secure cloud infrastructure on AWS with Terraform, Kubernetes and GitOps.*
 
 [![AWS SAA](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.linkedin.com/in/2imoriz)
 ![Open to work](https://img.shields.io/badge/Open%20to-DevOps%20%2F%20Cloud%20roles-2ea44f?style=for-the-badge)
@@ -43,15 +43,26 @@
 ![Obs](https://skillicons.dev/icons?i=prometheus,grafana&theme=dark)
 &nbsp;`Loki` `FluentBit` `Alertmanager` `Zipkin` `External Secrets Operator`
 
-**💻 Development** *(my fullstack background)*
+**🤖 AI**
+<br>
+&nbsp;`Claude Code` `MCP` `Amazon Bedrock` `OpenAI API`
+
+**💻 Development**
 <br>
 ![Dev](https://skillicons.dev/icons?i=java,spring,react,angular,ts,js,mysql,mongodb,postman&theme=dark)
 
 ---
 
-## 🤖 AI on AWS
+## 🤖 AI + DevOps
 
-Exploring **Amazon Bedrock** to bring generative AI into cloud platforms: managed foundation models, secure access through IAM and Secrets Manager, and cost-aware deployment on AWS.
+AI is part of how I build and ship infrastructure, not an add-on.
+
+| Area | How I use it |
+|------|--------------|
+| 🧠 **AI-assisted engineering** | Claude Code with custom agents, hooks and MCP servers (Terraform, AWS docs, AWS pricing) to write, review and validate infrastructure code faster and safer |
+| 🚀 **Deploying GenAI workloads** | Running LLM-backed services (OpenAI / Azure OpenAI) on Kubernetes with API keys kept in AWS Secrets Manager and External Secrets |
+| ☁️ **AI on AWS** | Exploring **Amazon Bedrock**: managed foundation models, IAM-based access and cost-aware deployment |
+| 🛡️ **Guardrails** | Automated checks (Checkov, Trivy, safety hooks) so AI-generated changes still meet security rules |
 
 ---
 
@@ -63,10 +74,24 @@ Exploring **Amazon Bedrock** to bring generative AI into cloud platforms: manage
 
 ---
 
+## 🧑‍🚀 Goal: Become a Kubestronaut
+
+Working toward the [CNCF Kubestronaut](https://www.cncf.io/training/kubestronaut/) title by earning all five Kubernetes certifications:
+
+| Certification | Focus | Status |
+|---------------|-------|--------|
+| **KCNA** – Kubernetes and Cloud Native Associate | Cloud native fundamentals | 🎯 Planned |
+| **KCSA** – Kubernetes and Cloud Native Security Associate | Security fundamentals | 🎯 Planned |
+| **CKAD** – Certified Kubernetes Application Developer | Building and running apps | 🎯 Planned |
+| **CKA** – Certified Kubernetes Administrator | Cluster operations | 🎯 Planned |
+| **CKS** – Certified Kubernetes Security Specialist | Hardening clusters | 🎯 Planned |
+
+---
+
 ## 🌱 Currently
 
 - 🔭 Building production-style AWS platforms with Terraform, EKS and ArgoCD
-- 🌱 Learning: Amazon Bedrock, Karpenter, DevSecOps, FinOps
+- 🌱 Learning: Kubernetes certifications, Amazon Bedrock, Karpenter, DevSecOps, FinOps
 - 💬 Ask me about: **AWS, Terraform, Kubernetes, CI/CD, React, Spring Boot**
 - 📫 Reach me: **oriz1303@gmail.com**
 

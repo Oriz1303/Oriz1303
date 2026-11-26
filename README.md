@@ -1,25 +1,79 @@
+<div align="center">
+
 ![MasterHead](https://images7.alphacoders.com/509/509782.jpg)
-<h1 align="center">Hi welcome my git 👋👋👋, I'm Trinh Cong Nguyen</h1>
-<h3 align="center">I want to become fullstack developer and devops</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oriz1303&label=Profile%20views&color=0e75b6&style=flat" alt="oriz1303" /> </p>
+# Hi, I'm Trinh Cong Nguyen 👋
 
+### ☁️ Cloud & DevOps Engineer · AWS Certified Solutions Architect – Associate
 
-- 🌱 I’m currently learning **Aptech**
+*Former fullstack developer → now building, automating and securing cloud infrastructure.*
 
-- 💬 Ask me about **React, Spring Boot, Angular.**
+[![AWS SAA](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.linkedin.com/in/2imoriz)
+![Open to work](https://img.shields.io/badge/Open%20to-DevOps%20%2F%20Cloud%20roles-2ea44f?style=for-the-badge)
 
-- 📫 How to reach me **oriz1303@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=oriz1303&label=Profile%20views&color=0e75b6&style=flat" alt="oriz1303" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/2imoriz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/2imoriz/" height="30" width="40" /></a>
-<a href="https://fb.com/2imoriz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="2imoriz" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2imoriz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/2imoriz)
+[![Email](https://img.shields.io/badge/Email-oriz1303%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:oriz1303@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-2imoriz-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/2imoriz)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
+---
 
+## 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oriz1303&" alt="oriz1303" /></p>
+**☁️ AWS**
+<br>
+![AWS](https://skillicons.dev/icons?i=aws&theme=dark)
+&nbsp;`EKS` `EC2 (Graviton)` `VPC` `RDS (MySQL)` `ECR` `S3` `IAM / IRSA` `Route 53` `ALB` `Secrets Manager` `CloudWatch` `🤖 Bedrock`
+
+**🏗️ Infrastructure as Code & Containers**
+<br>
+![IaC](https://skillicons.dev/icons?i=terraform,kubernetes,docker,linux,bash&theme=dark)
+&nbsp;`Terraform` `Helm` `Karpenter` `Docker buildx (ARM64)`
+
+**🔄 CI/CD & GitOps**
+<br>
+![CICD](https://skillicons.dev/icons?i=githubactions,argocd,git&theme=dark)
+&nbsp;`GitHub Actions (OIDC)` `ArgoCD` `Trivy` `Checkov`
+
+**📈 Observability & Security**
+<br>
+![Obs](https://skillicons.dev/icons?i=prometheus,grafana&theme=dark)
+&nbsp;`Loki` `FluentBit` `Alertmanager` `Zipkin` `External Secrets Operator`
+
+**💻 Development** *(my fullstack background)*
+<br>
+![Dev](https://skillicons.dev/icons?i=java,spring,react,angular,ts,js,mysql,mongodb,postman&theme=dark)
+
+---
+
+## 🤖 AI on AWS
+
+Exploring **Amazon Bedrock** to bring generative AI into cloud platforms: managed foundation models, secure access through IAM and Secrets Manager, and cost-aware deployment on AWS.
+
+---
+
+## 🎓 Certifications
+
+| Certification | Issuer | Status |
+|---------------|--------|--------|
+| **AWS Certified Solutions Architect – Associate (SAA-C03)** | Amazon Web Services | ✅ Certified |
+
+---
+
+## 🌱 Currently
+
+- 🔭 Building production-style AWS platforms with Terraform, EKS and ArgoCD
+- 🌱 Learning: Amazon Bedrock, Karpenter, DevSecOps, FinOps
+- 💬 Ask me about: **AWS, Terraform, Kubernetes, CI/CD, React, Spring Boot**
+- 📫 Reach me: **oriz1303@gmail.com**
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oriz1303&theme=dark&hide_border=true" alt="oriz1303 streak" />
+
+</div>

@@ -10,7 +10,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=640&lines=AWS+Certified+Solutions+Architect;Terraform+%C2%B7+EKS+%C2%B7+ArgoCD+%C2%B7+GitHub+Actions;Secure+%C2%B7+Automated+%C2%B7+Cost-aware+cloud+platforms" alt="Typing intro" />
 
-[![AWS SAA](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.linkedin.com/in/2imoriz)
+[![AWS SAA](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/226b3fafe8e843278a4372245eaa990e)
 ![Open to work](https://img.shields.io/badge/Open%20to-DevOps%20%2F%20Cloud%20roles-2ea44f?style=for-the-badge)
 
 <img src="https://komarev.com/ghpvc/?username=oriz1303&label=Profile%20views&color=0e75b6&style=flat" alt="oriz1303" />
@@ -160,9 +160,9 @@ AI is part of how I build and ship infrastructure, not an add-on.
 
 ## 🎓 Certifications
 
-| Certification | Issuer | Status |
-|---------------|--------|--------|
-| **AWS Certified Solutions Architect – Associate (SAA-C03)** | Amazon Web Services | ✅ Certified |
+| Certification | Issuer | Status | Verify |
+|---------------|--------|--------|--------|
+| **AWS Certified Solutions Architect – Associate (SAA-C03)** | Amazon Web Services | ✅ Certified | [🔎 Verify credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/226b3fafe8e843278a4372245eaa990e) |
 
 ---
 

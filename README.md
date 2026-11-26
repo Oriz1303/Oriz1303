@@ -147,19 +147,19 @@ AI is part of how I build and ship infrastructure, not an add-on.
 
 ---
 
-## 📚 Training: DevOps in Real Enterprise Environments
+## 🧪 Hands-on DevOps Experience
 
-Completed a 41-lesson hands-on DevOps course ([devopsedu.vn](https://devopsedu.vn/courses/khoa-hoc-devops-thuc-te-doanh-nghiep/)) that builds a company-style environment from scratch, from domain and network to CI/CD, security and monitoring.
+I build and operate company-style environments end to end, from domain and network to CI/CD, security and monitoring.
 
-| Area | What I practiced |
-|------|------------------|
-| 🌐 **Network & access** | Domain on Cloudflare, enterprise internal network design, server templates, centralized server-access management with role-based permissions, auto-registering new servers |
-| ☸️ **Kubernetes platform** | Kubernetes cluster setup, Rancher, highly available (HA) data cluster, private container registry |
-| 🧩 **Microservices** | Docker Compose, then Kubernetes: frontend, backend, API gateway (features, routing, domain), packaging with Helm charts |
-| 🔄 **CI/CD** | GitLab server and project structure, CI/CD pipelines, secret / key management in pipelines, chatbot notifications for pipeline results |
-| 🛡️ **DevSecOps** | SonarQube code-quality gates, security checks inside the pipeline, real-world use cases |
-| 📈 **Logging & monitoring** | Centralized logging, monitoring and alerting, log investigation |
-| 🔐 **VPN** | Enterprise VPN design and deployment with two tools, VPN log investigation, homelab VPN |
+| Area | What I've done |
+|------|----------------|
+| 🌐 **Network & access** | Registered and managed domains on Cloudflare, designed enterprise internal networks, built server templates, set up centralized server access with role-based permissions and automatic onboarding of new servers |
+| ☸️ **Kubernetes platform** | Built Kubernetes clusters, managed them with Rancher, ran a highly available (HA) data cluster, hosted a private container registry |
+| 🧩 **Microservices** | Deployed microservice projects with Docker Compose and Kubernetes: frontend, backend and API gateway with routing and custom domains, packaged with Helm charts |
+| 🔄 **CI/CD** | Ran a GitLab server, structured projects, built CI/CD pipelines with secure secret / key management and chatbot notifications |
+| 🛡️ **DevSecOps** | Added SonarQube quality gates and security checks into pipelines |
+| 📈 **Logging & monitoring** | Set up centralized logging, monitoring and alerting, and investigated issues through logs |
+| 🔐 **VPN** | Designed and deployed enterprise VPN systems with two tools, investigated VPN logs, built a homelab VPN |
 
 ---
 

@@ -72,76 +72,92 @@ Built and shipped web apps with Java, Spring Boot, React and Angular, backed by 
 
 **☁️ AWS**
 
-<p>
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Containers/ElasticKubernetesService.png" alt="EKS" title="EKS" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/EC2.png" alt="EC2" title="EC2" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/VirtualPrivateCloud.png" alt="VPC" title="VPC" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Database/RDS.png" alt="RDS" title="RDS" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Containers/ElasticContainerRegistry.png" alt="ECR" title="ECR" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Storage/SimpleStorageService.png" alt="S3" title="S3" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/SecurityIdentityCompliance/IdentityandAccessManagement.png" alt="IAM" title="IAM" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/Route53.png" alt="Route 53" title="Route 53" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/ElasticLoadBalancing.png" alt="ALB" title="ALB" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/SecurityIdentityCompliance/SecretsManager.png" alt="Secrets Manager" title="Secrets Manager" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/ManagementGovernance/CloudWatch.png" alt="CloudWatch" title="CloudWatch" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/ArtificialIntelligence/Bedrock.png" alt="Bedrock" title="Bedrock" width="48" height="48" />&nbsp;
-</p>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Containers/ElasticKubernetesService.png" alt="EKS" title="EKS" width="48" height="48" /><br /><sub><b>EKS</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/EC2.png" alt="EC2" title="EC2" width="48" height="48" /><br /><sub><b>EC2</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/VirtualPrivateCloud.png" alt="VPC" title="VPC" width="48" height="48" /><br /><sub><b>VPC</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Database/RDS.png" alt="RDS" title="RDS" width="48" height="48" /><br /><sub><b>RDS</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Containers/ElasticContainerRegistry.png" alt="ECR" title="ECR" width="48" height="48" /><br /><sub><b>ECR</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Storage/SimpleStorageService.png" alt="S3" title="S3" width="48" height="48" /><br /><sub><b>S3</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/SecurityIdentityCompliance/IdentityandAccessManagement.png" alt="IAM" title="IAM" width="48" height="48" /><br /><sub><b>IAM</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/Route53.png" alt="Route 53" title="Route 53" width="48" height="48" /><br /><sub><b>Route 53</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/ElasticLoadBalancing.png" alt="ALB" title="ALB" width="48" height="48" /><br /><sub><b>ALB</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/SecurityIdentityCompliance/SecretsManager.png" alt="Secrets Manager" title="Secrets Manager" width="48" height="48" /><br /><sub><b>Secrets Manager</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/ManagementGovernance/CloudWatch.png" alt="CloudWatch" title="CloudWatch" width="48" height="48" /><br /><sub><b>CloudWatch</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/ArtificialIntelligence/Bedrock.png" alt="Bedrock" title="Bedrock" width="48" height="48" /><br /><sub><b>Bedrock</b></sub></td>
+</tr>
+</table>
 
 **🏗️ Infrastructure as Code & Containers**
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rancher/rancher-original.svg" alt="Rancher" title="Rancher" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" title="Helm" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" title="Cloudflare" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="48" height="48" />&nbsp;
-</p>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="48" height="48" /><br /><sub><b>Terraform</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="48" height="48" /><br /><sub><b>Kubernetes</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rancher/rancher-original.svg" alt="Rancher" title="Rancher" width="48" height="48" /><br /><sub><b>Rancher</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" title="Helm" width="48" height="48" /><br /><sub><b>Helm</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="48" height="48" /><br /><sub><b>Docker</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" title="Cloudflare" width="48" height="48" /><br /><sub><b>Cloudflare</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="48" height="48" /><br /><sub><b>Linux</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="48" height="48" /><br /><sub><b>Bash</b></sub></td>
+</tr>
+</table>
 
 **🔄 CI/CD & GitOps**
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab CI/CD" title="GitLab CI/CD" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="ArgoCD" title="ArgoCD" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" title="SonarQube" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="48" height="48" />&nbsp;
-<img src="https://cdn.simpleicons.org/trivy" alt="Trivy" title="Trivy" width="48" height="48" />&nbsp;
-</p>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab CI/CD" title="GitLab CI/CD" width="48" height="48" /><br /><sub><b>GitLab CI/CD</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="48" height="48" /><br /><sub><b>GitHub Actions</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="ArgoCD" title="ArgoCD" width="48" height="48" /><br /><sub><b>ArgoCD</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" title="SonarQube" width="48" height="48" /><br /><sub><b>SonarQube</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="48" height="48" /><br /><sub><b>Git</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/trivy" alt="Trivy" title="Trivy" width="48" height="48" /><br /><sub><b>Trivy</b></sub></td>
+</tr>
+</table>
 
 **📈 Observability**
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" title="Prometheus" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafanaloki/grafanaloki-original.svg" alt="Loki" title="Loki" width="48" height="48" />&nbsp;
-<img src="https://cdn.simpleicons.org/fluentbit" alt="Fluent Bit" title="Fluent Bit" width="48" height="48" />&nbsp;
-</p>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" title="Prometheus" width="48" height="48" /><br /><sub><b>Prometheus</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" width="48" height="48" /><br /><sub><b>Grafana</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafanaloki/grafanaloki-original.svg" alt="Loki" title="Loki" width="48" height="48" /><br /><sub><b>Loki</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/fluentbit" alt="Fluent Bit" title="Fluent Bit" width="48" height="48" /><br /><sub><b>Fluent Bit</b></sub></td>
+</tr>
+</table>
 
 **🤖 AI**
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/claudecode/claudecode-original.svg" alt="Claude Code" title="Claude Code" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/claude/claude-original.svg" alt="Claude" title="Claude" width="48" height="48" />&nbsp;
-<img src="https://cdn.simpleicons.org/modelcontextprotocol" alt="MCP" title="MCP" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/ArtificialIntelligence/Bedrock.png" alt="Bedrock" title="Bedrock" width="48" height="48" />&nbsp;
-</p>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/claudecode/claudecode-original.svg" alt="Claude Code" title="Claude Code" width="48" height="48" /><br /><sub><b>Claude Code</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/claude/claude-original.svg" alt="Claude" title="Claude" width="48" height="48" /><br /><sub><b>Claude</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/modelcontextprotocol" alt="MCP" title="MCP" width="48" height="48" /><br /><sub><b>MCP</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/ArtificialIntelligence/Bedrock.png" alt="Bedrock" title="Bedrock" width="48" height="48" /><br /><sub><b>Bedrock</b></sub></td>
+</tr>
+</table>
 
 **💻 Development**
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" title="Spring" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" title="Angular" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="48" height="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="48" height="48" />&nbsp;
-</p>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="48" height="48" /><br /><sub><b>Java</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" title="Spring" width="48" height="48" /><br /><sub><b>Spring</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="48" height="48" /><br /><sub><b>React</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" title="Angular" width="48" height="48" /><br /><sub><b>Angular</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="48" height="48" /><br /><sub><b>TypeScript</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="48" height="48" /><br /><sub><b>JavaScript</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="48" height="48" /><br /><sub><b>MySQL</b></sub></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="48" height="48" /><br /><sub><b>MongoDB</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="48" height="48" /><br /><sub><b>Postman</b></sub></td>
+</tr>
+</table>
 
 ---
 

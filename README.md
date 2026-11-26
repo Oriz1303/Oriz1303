@@ -40,6 +40,7 @@
 | **🧰 Core skills** | AWS · Terraform · Kubernetes (EKS) · Helm · ArgoCD · GitHub Actions / GitLab CI · Prometheus / Grafana |
 | **🔐 Strengths** | Infrastructure as Code, GitOps, CI/CD, DevSecOps (SonarQube), VPN and secure access, cost-aware design |
 | **🤖 Also** | AI-assisted engineering, Amazon Bedrock |
+| **🌎 Collaboration** | 2 years working directly with a US-based Product Manager |
 | **🗣️ Languages** | Vietnamese, English |
 | **📬 Open to** | DevOps / Cloud Engineer roles |
 
@@ -47,13 +48,23 @@
 
 ## 💼 Experience
 
-| Period | Role | Focus |
-|--------|------|-------|
-| **2024 – 2026** | **☁️ DevOps / Cloud Engineer** | Designing and automating AWS platforms: Terraform, EKS, GitOps with ArgoCD, CI/CD, observability and security |
-| **2022 – 2024** | **🎓 Student, Aptech Polytechnic College** *(Cao đẳng Bách khoa Aptech)* | Studied software development and built the fundamentals behind my move into cloud and DevOps |
-| **2021 – 2022** | **💻 Fullstack Developer** | Built and shipped web apps with Java, Spring Boot, React and Angular, backed by MySQL and MongoDB |
+### ☁️ DevOps / Cloud Engineer · 2024 – 2026
 
-> 🔗 **Why it matters:** two years of writing and shipping code means I understand what developers need from a pipeline, and I build infrastructure that fits how applications actually run.
+🇺🇸 **Worked directly with a US-based Product Manager for 2 years**, in a cross-timezone team: gathered requirements, reported progress and delivered on agreed priorities in English.
+
+- 🏗️ **Cloud & IaC:** designed and automated AWS platforms with Terraform: VPC, EKS, RDS, ECR, Route 53, Secrets Manager
+- ☸️ **Kubernetes:** built and managed clusters (EKS, Rancher), highly available (HA) data cluster, private container registry, Helm packaging, Karpenter node autoscaling
+- 🔄 **CI/CD & GitOps:** pipelines with GitHub Actions and GitLab, deployments with ArgoCD, secure secret management, chatbot notifications
+- 🛡️ **DevSecOps:** SonarQube quality gates, Trivy and Checkov scanning, least-privilege IAM, External Secrets
+- 📈 **Observability:** centralized logging, monitoring and alerting with Prometheus, Grafana, Loki and Alertmanager
+- 🌐 **Network & access:** Cloudflare domains, enterprise network design, role-based server access, enterprise VPN with two tools and VPN log investigation
+- 🧩 **Microservices:** deployed frontend, backend and API gateway services with Docker Compose and Kubernetes
+
+### 🎓 Student · 2022 – 2024
+**Aptech Polytechnic College** *(Cao đẳng Bách khoa Aptech)*: studied software development and built the fundamentals behind my move into cloud and DevOps.
+
+### 💻 Fullstack Developer · 2021 – 2022
+Built and shipped web apps with Java, Spring Boot, React and Angular, backed by MySQL and MongoDB.
 
 ---
 
@@ -144,22 +155,6 @@ AI is part of how I build and ship infrastructure, not an add-on.
 | 🚀 **Deploying GenAI workloads** | Running LLM-backed services (OpenAI / Azure OpenAI) on Kubernetes with API keys kept in AWS Secrets Manager and External Secrets |
 | ☁️ **AI on AWS** | Exploring **Amazon Bedrock**: managed foundation models, IAM-based access and cost-aware deployment |
 | 🛡️ **Guardrails** | Automated checks (Checkov, Trivy, safety hooks) so AI-generated changes still meet security rules |
-
----
-
-## 🧪 Hands-on DevOps Experience
-
-I build and operate company-style environments end to end, from domain and network to CI/CD, security and monitoring.
-
-| Area | What I've done |
-|------|----------------|
-| 🌐 **Network & access** | Registered and managed domains on Cloudflare, designed enterprise internal networks, built server templates, set up centralized server access with role-based permissions and automatic onboarding of new servers |
-| ☸️ **Kubernetes platform** | Built Kubernetes clusters, managed them with Rancher, ran a highly available (HA) data cluster, hosted a private container registry |
-| 🧩 **Microservices** | Deployed microservice projects with Docker Compose and Kubernetes: frontend, backend and API gateway with routing and custom domains, packaged with Helm charts |
-| 🔄 **CI/CD** | Ran a GitLab server, structured projects, built CI/CD pipelines with secure secret / key management and chatbot notifications |
-| 🛡️ **DevSecOps** | Added SonarQube quality gates and security checks into pipelines |
-| 📈 **Logging & monitoring** | Set up centralized logging, monitoring and alerting, and investigated issues through logs |
-| 🔐 **VPN** | Designed and deployed enterprise VPN systems with two tools, investigated VPN logs, built a homelab VPN |
 
 ---
 

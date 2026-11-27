@@ -199,7 +199,7 @@ Working toward the [CNCF Kubestronaut](https://www.cncf.io/training/kubestronaut
 ## 🌱 Currently
 
 - 🔭 Building production-style AWS platforms with Terraform, EKS and ArgoCD
-- 🌱 Learning: Kubernetes certifications, Amazon Bedrock, Karpenter, DevSecOps, FinOps
+- 🌱 Learning: Kubernetes certifications, Amazon Bedrock, Karpenter, DevSecOps, FinOps, AIOps
 - 💬 Ask me about: **AWS, Terraform, Kubernetes, CI/CD, React, Spring Boot**
 
 ---
